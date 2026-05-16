@@ -101,7 +101,7 @@ export function HeroSection() {
 
                   {/* Judul Utama */}
                   <div ref={headline1Ref} className="font-space text-[clamp(42px,6.5vw,84px)] font-black leading-[0.9] tracking-[-0.04em] text-[#F5F5F5]">
-                     <span className="word inline-block opacity-0">KAMI</span> <span className="word inline-block opacity-0">DESAIN</span>
+                     <span className="word inline-block opacity-0">SAYA</span> <span className="word inline-block opacity-0">DESAIN</span>
                   </div>
                   <div ref={headline2Ref} className="font-space text-[clamp(42px,6.5vw,84px)] font-black leading-[0.9] tracking-[-0.04em] mt-1">
                      <span className="word inline-block opacity-0 text-transparent bg-clip-text" style={{ backgroundImage: "linear-gradient(135deg, #FFFFFF 0%, #A3A3A3 50%, #404040 100%)" }}>
