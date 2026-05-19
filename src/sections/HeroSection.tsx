@@ -117,9 +117,10 @@ export function HeroSection() {
 
                   {/* Tombol Aksi */}
                   <div ref={ctaRef} className="flex flex-wrap gap-4 mt-8">
-                     <CTAButton onClick={() => scrollTo("order")}>PESAN DESAIN SEKARANG</CTAButton>
-                     <CTAButton variant="secondary" onClick={() => scrollTo("pricing")}>
-                        LIHAT DAFTAR HARGA
+                     <CTAButton onClick={() => window.open("https://wa.me/6281999310962", "_blank")}>PESAN DESAIN SEKARANG</CTAButton>
+
+                     <CTAButton variant="secondary" onClick={() => scrollTo("portfolio")}>
+                        LIHAT CONTOH DESAIN
                      </CTAButton>
                   </div>
 

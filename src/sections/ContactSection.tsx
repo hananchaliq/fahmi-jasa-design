@@ -22,8 +22,8 @@ const CONTACT_METHODS = [
    {
       icon: MessageCircle,
       label: "WhatsApp",
-      value: "+62 8XX XXXX XXXX",
-      href: "https://wa.me/628XXXXXXXXXX",
+      value: "+62 819 9931 0962",
+      href: "https://wa.me/6281999310962?text=Halo%20Ariful,%20saya%20ingin%20bertanya%20tentang%20jasa%20desain.",
    },
 ];
 
